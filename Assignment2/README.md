@@ -4,14 +4,14 @@ My code are adapted from the github repos:<br>
 
 
 Requirement:<br>
-install jython 2.7<br>
-install ant<br>
-install ABAGAIL <br>
-    it should work if you just download this repo,if not, <br>
-    make sure you have java installed and re-compile the source code in the ABAGAIL folder with ant<br>
-        cd ./ABAGAIL<br>
-        ant<br>
-install numpy, pandas, matplotlib, sklearn, jupyter notebook<br>
+    install jython 2.7<br>
+    install ant<br>
+    install ABAGAIL <br>
+        it should work if you just download this repo,if not, <br>
+        make sure you have java installed and re-compile the source code in the ABAGAIL folder with ant<br>
+            cd ./ABAGAIL<br>
+            ant<br>
+    install numpy, pandas, matplotlib, sklearn, jupyter notebook<br>
 
 
 Instruction:<br>
