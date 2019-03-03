@@ -1,5 +1,5 @@
-My code are adapted from the github repos:
-    https://github.com/cmaron/CS-7641-assignments/tree/master/assignment2
+My code are adapted from the github repos:<br>
+    https://github.com/cmaron/CS-7641-assignments/tree/master/assignment2<br>
     https://github.com/mitian223/CS7641/tree/master/HW2
 
 
