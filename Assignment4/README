@@ -1,0 +1,14 @@
+Chenbo LU   GTID:903477905
+
+You can access to all the code and results in my github : 
+	https://github.com/Jimmymiji/CS-4641/tree/master/Assignment4
+
+I use a reinforcement learning simulator, it can be found in this website.
+http://www.cs.cmu.edu/~awm/rlsim/
+
+I forked the code from the github repository
+https://github.com/theJenix/rl_sim_fork
+
+To run the simulator, just download this folder and run the command:
+java -cp rl.jar MainUI
+
